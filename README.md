@@ -1,7 +1,6 @@
-  The Logic Band: A Novel Neural Network Design For Advancing Artificial Intelligence.
-  Derek Smith
-  Lucasville, OH, United States
-  dlsmith323@gmail.com
+The Logic Band: A Novel Neural Network Design For Advancing Artificial Intelligence.
+  
+By: Derek Smith (dlsmith323@gmail.com)
 
 
 Medical meets Technology: Conception of theology
@@ -59,7 +58,7 @@ this shows that the Logic Band does improve outcomes when attached to current ne
 
 General Architecture and Explanation
 
-	In the Logic Band framework, there are two key rules, or functions of the Logic Band depending on the use case. The Logic Band technique was adapted to fit multiple AI Machine Learning, and Deep Learning models. The functionality of how the 
+  In the Logic Band framework, there are two key rules, or functions of the Logic Band depending on the use case. The Logic Band technique was adapted to fit multiple AI Machine Learning, and Deep Learning models. The functionality of how the 
 Logic Band functions within the different neural networks the following will dive into the two general architecture designs of the Logic Band and the use cases in which the architecture functions. The two architectures of the Logic Band describe 
 the function of the logic band within its specific neural network, one being a secondary weight correction mechanism, and the other as a dynamic Adjustment of Logic Band Weights.
 
@@ -89,7 +88,7 @@ learning process for the Logic Band itself is governed by the same backpropagati
 
 4.2 Dynamic Logic Band Weight Adjustment Rule
 
-	The secondary architecture of the Logic Band, which provides the functionality of dynamic adjustment of Logic Band weights, will help understand the logic band as a whole by explaining how the Logic Band updates the weights themselves as they are updated throughout training. The update rule introduces momentum-based learning, allowing the Logic Band to adjust its weights gradually, incorporating prior knowledge and fine-tuning the model’s understanding of feature importance based on the gradients of the loss function. The second critical aspect of the Logic Band mechanism is the dynamic updating of the Logic Band weights LL as training progresses. To ensure that the model continually adapts to the most relevant features, the weights of the Logic Band must be adjusted based on the gradients of the loss function. A momentum-based learning approach is applied to the Logic Band weights, which allows the network to retain knowledge from previous updates while also learning new adjustments that reflect the model’s current state.
+  The secondary architecture of the Logic Band, which provides the functionality of dynamic adjustment of Logic Band weights, will help understand the logic band as a whole by explaining how the Logic Band updates the weights themselves as they are updated throughout training. The update rule introduces momentum-based learning, allowing the Logic Band to adjust its weights gradually, incorporating prior knowledge and fine-tuning the model’s understanding of feature importance based on the gradients of the loss function. The second critical aspect of the Logic Band mechanism is the dynamic updating of the Logic Band weights LL as training progresses. To ensure that the model continually adapts to the most relevant features, the weights of the Logic Band must be adjusted based on the gradients of the loss function. A momentum-based learning approach is applied to the Logic Band weights, which allows the network to retain knowledge from previous updates while also learning new adjustments that reflect the model’s current state.
 The update rule for the Logic Band weight matrix L can be described as:
 
               L(t+1)=α⋅L(t)+β⋅∇Lℒ					                                                                                                                                                                                                       (2)
@@ -111,7 +110,7 @@ inconsistent (sensor networks, social media data). The dynamic adjustment of Log
 relationships in Deep Neural Networks (DNN) through dynamic adjustment helps the model fine-tune its representation of feature importance across multiple layers, which can be essential in capturing long-range dependencies in data. The momentum-based approach 
 to adjusting Logic Band weights ensures that the updates to the Logic Band are gradual and stable, ensuring model stability during training by preventing drastic weight changes that could destabilize the model.
 
-	The interesting thing about The Logic Band’s design is the architecture of the Logic Band itself can be adapted to each and every neural network that exists, it truly becomes a counter part to neural networks in the whole scheme of Artificial Intelligence 
+  The interesting thing about The Logic Band’s design is the architecture of the Logic Band itself can be adapted to each and every neural network that exists, it truly becomes a counter part to neural networks in the whole scheme of Artificial Intelligence 
 Neuroscience. The location in which it is adapted to in these various models may vary by name but truly they are identical in the function they serve within each model. From the dense layers that an ANN almost complete is comprised of, or the dense section in 
 which pixel inputs are regulated and evaluated within a CNN is also a dense layer. The feedforward network processes and regulates the flow of inputs and outputs as they pass through being processed as they go, still serving the same functionality as other 
 various types of models. These dense layers is where the complex relationships are evaluated between feature and output, The Logic Band completes the logical understanding of the Artificial Intelligence by providing a logical reasoning in which feature 
@@ -273,7 +272,7 @@ This is more suitable for larger datasets that are complex where additional para
 
 In Conclusion:
 
-	 I believe that this is not only a great theory founded in human neuroscience, but it gets us a little closer to the goal of artificial intelligence, which is to replicate the human brain and its function as best possible. The science and healthcare 
+  I believe that this is not only a great theory founded in human neuroscience, but it gets us a little closer to the goal of artificial intelligence, which is to replicate the human brain and its function as best possible. The science and healthcare 
 experience I have has led me to develop this theory and now transitioning to data science, the applications of complex relationships are currently measured on the roads of the brain. This is a complex reasoning of relationships in data that has successfully 
 improved outcome accuracies. This may just be the first step into developing a human-like logical understanding of data for Artificial Intelligence (AI). In my opinion, its complete development is an exciting advancement for artificial intelligence and 
 the beginning foundation for the complete development of the “white matter” component of the artificial intelligence’s brain. One step closer to replicating the human brain for artificial intelligence practices. The dynamically adjustable weight system 
@@ -286,7 +285,7 @@ paper. “If we don’t set our sights on impossible, you will never know your t
 
 Future Development:
 
-	The further development of the Logic Band to include feature replacement with newly discovered complex feature relationships will nearly automatic raw data into prioritized data that will will be able to dropout features and feature relationships that are 
+  The further development of the Logic Band to include feature replacement with newly discovered complex feature relationships will nearly automatic raw data into prioritized data that will will be able to dropout features and feature relationships that are 
 not as important to the performance of the model by setting a hyperparameter. Allowing the models to not only accurately depict complex relationships but also feature engineer findings to be evaluated over the initial feature itself to prevent overfitting, or 
 results that do not truly reflect the model’s performance. For example, say we are trying to estimate the cost of a vehicle based on its features. Using completely raw data including things like color, number of doors, transmission, engine, brand, sunroof, and 
 premium stereo. The model could look at these and determine that color red and 2 door cars combined was the most accurate pairing of color with all other features as well as the accuracy weight of the color itself. The combination was found to be more expensive 
@@ -296,7 +295,7 @@ until the end and if the weight accuracy of the two reversed combos is identical
 end of the Logic Band. transmission-number of doors is transmissions second best combination and is better performance weight value than engine-brand which was the feature engine second best combination. I that case the feature transmission would be replaced by 
 transmission-number of doors, and engine-transmission would take the feature engine’s spot.
 
-	The interesting thing about developing The Logic Band’s design is the architecture of the Logic Band itself can be developed the same way different neural networks have been created. The initial method focusing on complex feature relationship identification 
+  The interesting thing about developing The Logic Band’s design is the architecture of the Logic Band itself can be developed the same way different neural networks have been created. The initial method focusing on complex feature relationship identification 
 and appropriate dynamic weight adjustment to reflect the importance of them. A new method in development centers around autonomous feature selection and refined feature engineering performed by the model itself to ensure maximum results and ability to use raw 
 data as needed. This designs location in which it is adapted to in these various models may vary by name but truly they are identical in the function they serve within each model. From the dense layers that an ANN almost complete is comprised of, or the dense 
 section in which pixel inputs are regulated and evaluated within a CNN is also a dense layer. The feedforward network processes and regulates the flow of inputs and outputs as they pass through being processed as they go, still serving the same functionality 
